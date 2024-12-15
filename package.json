@@ -1,0 +1,14 @@
+{
+    "name": "portfolio",
+    "version": "1.0.0",
+    "description": "A portfolio website",
+    "main": "index.js",
+    "scripts": {
+      "build": " N/A", 
+      "start": "echo 'Starting project...'"
+    },
+    "dependencies": {},
+    "devDependencies": {},
+    "author": "Your Name",
+    "license": "MIT"
+  }
