@@ -4,7 +4,7 @@
     "description": "A portfolio website",
     "main": "index.js",
     "scripts": {
-      "build": " N/A", 
+      "build": " echo 'No build step needed", 
       "start": "echo 'Starting project...'"
     },
     "dependencies": {},
